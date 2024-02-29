@@ -11,5 +11,10 @@
   },
   "engines": {
     "npm": ">5"
-  }
+  },
+  "description": "In this workshop, you'll build a minimal landing page for an agency.",
+  "directories": {
+    "doc": "docs"
+  },
+  "license": "ISC"
 }
